@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T17:10:21.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="1NVr93sBU9k4n4LCd4s9" version="13.7.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-29T17:14:37.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="5RExNv0a-tfn8anUIqEd" version="13.7.6" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="org">
     <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -638,7 +638,7 @@
         <mxCell id="AaI5YlT1PjiHN2pwH9ht-4" value="抽取客户联" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=14;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="AaI5YlT1PjiHN2pwH9ht-3">
           <mxGeometry x="5" y="5" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AaI5YlT1PjiHN2pwH9ht-5" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#B20000;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontColor=#ffffff;fillColor=#FFD300;" vertex="1" parent="AaI5YlT1PjiHN2pwH9ht-0">
+        <mxCell id="AaI5YlT1PjiHN2pwH9ht-5" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontColor=#ffffff;fillColor=#FFD300;strokeColor=#666666;" vertex="1" parent="AaI5YlT1PjiHN2pwH9ht-0">
           <mxGeometry x="20.5" y="120" width="409" height="90" as="geometry" />
         </mxCell>
         <mxCell id="AaI5YlT1PjiHN2pwH9ht-6" value="抽取财务联" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=14;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="AaI5YlT1PjiHN2pwH9ht-5">
@@ -933,7 +933,7 @@
         <mxCell id="vbOmulQnPedy98AJduJn-58" value="功效" style="swimlane;html=1;startSize=20;horizontal=1;flowOrientation=north;interRankCellSpacing=50;containerType=tree;" vertex="1" parent="WM7G9GYVYGkjrFlW2XQ_-1">
           <mxGeometry x="50" y="740" width="450" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="vbOmulQnPedy98AJduJn-59" value="信息留底 事后核对" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#B20000;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fillColor=#e51400;fontColor=#ffffff;fontSize=14;verticalAlign=bottom;" vertex="1" parent="vbOmulQnPedy98AJduJn-58">
+        <mxCell id="vbOmulQnPedy98AJduJn-59" value="信息留底 事后核对" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fillColor=#e51400;fontColor=#ffffff;fontSize=14;verticalAlign=bottom;strokeColor=#666666;" vertex="1" parent="vbOmulQnPedy98AJduJn-58">
           <mxGeometry x="236" y="130" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vbOmulQnPedy98AJduJn-60" value="存单联" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=14;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="vbOmulQnPedy98AJduJn-59">
@@ -945,7 +945,7 @@
         <mxCell id="vbOmulQnPedy98AJduJn-62" value="客户联" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=14;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="vbOmulQnPedy98AJduJn-61">
           <mxGeometry x="5" y="5" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vbOmulQnPedy98AJduJn-63" value="支付凭证 记账凭证" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#B20000;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fillColor=#FFD300;fontSize=14;verticalAlign=bottom;" vertex="1" parent="vbOmulQnPedy98AJduJn-58">
+        <mxCell id="vbOmulQnPedy98AJduJn-63" value="支付凭证 记账凭证" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fillColor=#FFD300;fontSize=14;verticalAlign=bottom;strokeColor=#666666;" vertex="1" parent="vbOmulQnPedy98AJduJn-58">
           <mxGeometry x="10.5" y="39" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vbOmulQnPedy98AJduJn-64" value="财务联" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=14;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="vbOmulQnPedy98AJduJn-63">
