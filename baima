@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T17:14:37.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="5RExNv0a-tfn8anUIqEd" version="13.7.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-29T17:32:06.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="li0e3Jt7vkJIT2NlBikX" version="13.7.6" type="github" pages="6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="org">
     <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,6 +388,133 @@
             <mxPoint x="660" y="520" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="baima 20 oct" id="5rBC0VPbBkrL5piwfriP">
+    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-0" />
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-1" parent="LV1PMT0lfkmXahYqiGjE-0" />
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-2" value="四联单流程" style="swimlane;html=1;startSize=20;horizontal=1;flowOrientation=north;interRankCellSpacing=50;containerType=tree;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-1">
+          <mxGeometry x="40" y="30" width="450" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-3" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-2">
+          <mxGeometry x="20.5" y="430" width="409" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-4" value="汇总存单联" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=14;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-3">
+          <mxGeometry x="5" y="5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-5" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-2">
+          <mxGeometry x="20.5" y="330" width="409" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-6" value="抽取客户联" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=14;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-5">
+          <mxGeometry x="5" y="5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-7" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-2">
+          <mxGeometry x="20.5" y="120" width="409" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-8" value="抽取财务联" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=14;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-7">
+          <mxGeometry x="5" y="5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-9" value="财务收款或记账" style="whiteSpace=wrap;html=1;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-7">
+          <mxGeometry x="110" y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-10" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-2">
+          <mxGeometry x="20.5" y="220" width="409" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-11" value="抽取执行联" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=14;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-10">
+          <mxGeometry x="5" y="5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-12" value="餐饮会议部" style="whiteSpace=wrap;html=1;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-2">
+          <mxGeometry x="39.5" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-13" value="" style="html=1;curved=1;noEdgeStyle=1;orthogonal=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="LV1PMT0lfkmXahYqiGjE-2" source="LV1PMT0lfkmXahYqiGjE-9" target="LV1PMT0lfkmXahYqiGjE-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="210" />
+              <mxPoint x="89.5" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-14" value="工程部" style="whiteSpace=wrap;html=1;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-2">
+          <mxGeometry x="169.5" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-15" value="" style="html=1;curved=1;noEdgeStyle=1;orthogonal=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="LV1PMT0lfkmXahYqiGjE-2" source="LV1PMT0lfkmXahYqiGjE-9" target="LV1PMT0lfkmXahYqiGjE-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219.5" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-16" value="运营部交予客户确认" style="whiteSpace=wrap;html=1;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-2">
+          <mxGeometry x="130" y="360" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-17" value="" style="html=1;curved=1;noEdgeStyle=1;orthogonal=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LV1PMT0lfkmXahYqiGjE-2" source="LV1PMT0lfkmXahYqiGjE-12" target="LV1PMT0lfkmXahYqiGjE-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="89.5" y="312" />
+              <mxPoint x="132" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-18" value="" style="html=1;curved=1;noEdgeStyle=1;orthogonal=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LV1PMT0lfkmXahYqiGjE-2" source="LV1PMT0lfkmXahYqiGjE-14" target="LV1PMT0lfkmXahYqiGjE-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219.5" y="312" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="LV1PMT0lfkmXahYqiGjE-2" source="LV1PMT0lfkmXahYqiGjE-23" target="LV1PMT0lfkmXahYqiGjE-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="343.5" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-20" value="外部供应商" style="whiteSpace=wrap;html=1;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-2">
+          <mxGeometry x="299.5" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-21" value="" style="html=1;curved=1;noEdgeStyle=1;orthogonal=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LV1PMT0lfkmXahYqiGjE-2" source="LV1PMT0lfkmXahYqiGjE-9" target="LV1PMT0lfkmXahYqiGjE-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="210" as="sourcePoint" />
+            <mxPoint x="219.5" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="349.5" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-22" value="" style="html=1;curved=1;noEdgeStyle=1;orthogonal=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LV1PMT0lfkmXahYqiGjE-2" source="LV1PMT0lfkmXahYqiGjE-20" target="LV1PMT0lfkmXahYqiGjE-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329.5" y="370" as="sourcePoint" />
+            <mxPoint x="287" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="339.5" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-23" value="运营部收集客户需求意向&lt;br&gt;按照执行部门拆分&lt;br&gt;制作对应四联单" style="whiteSpace=wrap;html=1;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-2">
+          <mxGeometry x="132.75" y="40" width="175.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-24" value="对外结算费用&lt;br&gt;对内核算成本&lt;br&gt;作为开票基准" style="whiteSpace=wrap;html=1;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-2">
+          <mxGeometry x="130" y="455" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-25" value="" style="html=1;curved=1;noEdgeStyle=1;orthogonal=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="LV1PMT0lfkmXahYqiGjE-2" source="LV1PMT0lfkmXahYqiGjE-16" target="LV1PMT0lfkmXahYqiGjE-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="520" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-26" value="" style="endArrow=none;dashed=1;html=1;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="LV1PMT0lfkmXahYqiGjE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="250" as="sourcePoint" />
+            <mxPoint x="490" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-27" value="十&lt;br&gt;月&lt;br&gt;线&lt;br&gt;上&lt;br&gt;服&lt;br&gt;务" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;fillColor=#24FF48;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-1">
+          <mxGeometry x="490" y="30" width="43.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="LV1PMT0lfkmXahYqiGjE-28" value="后&lt;br&gt;续&lt;br&gt;线&lt;br&gt;上&lt;br&gt;服&lt;br&gt;务" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;fillColor=none;" vertex="1" parent="LV1PMT0lfkmXahYqiGjE-1">
+          <mxGeometry x="490" y="250" width="43.5" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
